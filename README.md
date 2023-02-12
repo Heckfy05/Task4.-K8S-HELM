@@ -17,13 +17,13 @@ Service and Ingress.
 ```
 helm install nginx nginx/
 ```
-![deploying](img/NginxDeploying.png)
+![deploying](.img/NginxDeploying.png)
 
-![all](img/get%20all.png)
+![all](.img/getall.png)
 
 Resoult:
 
-![NGINX](img/NGINX.png)
+![NGINX](.img/NGINX.png)
 
 Upgraining deployment by increasing replicas to 4
 ```
