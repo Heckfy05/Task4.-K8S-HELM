@@ -1,5 +1,5 @@
 # Task4.-K8S-HELM
-Using knowledge gained on previous [leson](https://github.com/Heckfy05/Task3.-K8S) was deployed K8S using kubesprey  on GCP instance. Created and registreted domain [ruslan.v6.rocks](ruslan.v6.rocks), configured [cert-manager](https://cert-manager.io/) with Letsencrypt.
+Using knowledge gained on previous [leson](https://github.com/Heckfy05/Task3.-K8S) was deployed K8S using kubesprey  on GCP instance. Created and registreted domain [ruslan.v6.rocks](https://ruslan.v6.rocks), configured [cert-manager](https://cert-manager.io/) with Letsencrypt.
 
 #### 1. Deploy Nginx via helm with Ingress configuration 
 Set variables via value yaml
