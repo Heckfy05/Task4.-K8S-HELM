@@ -1,0 +1,5 @@
+container:
+  image: nginx:latest
+
+replicaCount: 2
+host: ruslan.v6.rocks 
